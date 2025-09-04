@@ -1,2 +1,0 @@
-# netflixdemo
-jenkins-project
